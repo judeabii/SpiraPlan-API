@@ -12,6 +12,6 @@ A project outlining how we can get any required information quickly from SpiraPl
 We can import all these individual files in a main py file and make use of all these separate programs.
 
 With API, we can get different types of reports/information and tweak them accordingly.
-The ones here are the most basic information that will help any test management project.
+The ones here provide the most basic information that will help any test management project.
 
-View the SpiraPlan API documentation here: [SpiraPlan API](https://api.inflectra.com/spira/services/v5_0/RestService.aspx)
+View the complete SpiraPlan API documentation here: [SpiraPlan API](https://api.inflectra.com/spira/services/v5_0/RestService.aspx)
